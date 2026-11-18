@@ -1,0 +1,5 @@
+vram-atlas-probe
+*.o
+__pycache__/
+*.pyc
+.raw_*.png
